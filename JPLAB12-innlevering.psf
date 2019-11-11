@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/dat100hib/dat100-programmering-12-2019-h584963.git,master,."/>
+</provider>
+</psf>
